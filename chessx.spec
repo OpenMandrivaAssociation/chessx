@@ -57,3 +57,10 @@ EOF
 %{_gamesdatadir}/%{name}
 
 
+
+
+%changelog
+* Mon Nov 28 2011 Andrey Bondrov <abondrov@mandriva.org> 0.8-1mdv2011.0
++ Revision: 734931
+- imported package chessx
+
