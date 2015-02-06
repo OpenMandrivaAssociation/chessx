@@ -1,6 +1,6 @@
 Name:		chessx
 Version:	0.8
-Release:	%mkrel 1
+Release:	2
 Summary:	An Open Source chess database
 License:	GPLv2
 Group:		Games/Boards
