@@ -4,7 +4,7 @@ Release:	2
 Summary:	An Open Source chess database
 License:	GPLv2
 Group:		Games/Boards
-URL:		http://chessx.sourceforge.net/
+URL:		https://chessx.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 BuildRequires:	qt4-devel
 
