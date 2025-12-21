@@ -6,6 +6,7 @@ License:	GPLv2
 Group:		Games/Boards
 URL:		https://chessx.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
+BuildRequires:	make
 BuildRequires:	qt4-devel
 
 %description
